@@ -3,7 +3,7 @@ base on fix-webm-metainfo, rollup bundle
 
 update: `fixWebmMetaInfo` method add second param, this param can customize video duration
 
-rollup -c
+build: `rollup -c`
 
 ================================================================================================================================================
 # fix-webm-metainfo
